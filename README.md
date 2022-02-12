@@ -1,5 +1,5 @@
 # handling_responsive_screen
-
+# handling responsive screen for web and mobile
 A new Flutter project.
 
 ## Getting Started
